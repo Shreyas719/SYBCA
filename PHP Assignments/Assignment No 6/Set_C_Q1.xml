@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricketinfo>
+	<cricket>
+		<player>
+			abc
+		</player>
+		<runs>
+			1089
+		</runs>
+		<wickets>
+			50
+		</wickets>
+		
+	</cricket>
+	<cricket>
+		<player>
+			def
+		</player>
+		<runs>
+			1008
+		</runs>
+		<wickets>
+			40
+		</wickets>
+	>
+	</cricket>
+	<cricket>
+		<player>
+			pqr
+		</player>
+		<runs>
+			1025
+		</runs>
+		<wickets>
+			60
+		</wickets>
+	
+	</cricket>
+	<cricket>
+		<player>
+			xyz
+		</player>
+		<runs>
+			900
+		</runs>
+		<wickets>
+			90
+		</wickets>
+	
+	</cricket>
+	<cricket>
+		<player>
+			lmn
+		</player>
+		<runs>
+			175
+		</runs>
+		<wickets>
+			80
+		</wickets>
+	
+	</cricket>
+</cricketinfo>
