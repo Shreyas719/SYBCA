@@ -1,0 +1,5 @@
+t=('p','y','t','h','o','n')
+s= ''.join(t)
+print(t)
+print("\n")
+print(s)
